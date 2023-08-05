@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Artificial Intelligence student at Universiti Malaya.
-- 💼 &nbsp; Software Engineer at "Specialists Ly," a telecommunications company.
+- 💼 &nbsp; Software Engineer at "Specialists" a telecommunications company.
 - 🏆 &nbsp; Passionate about Kaggle competitions during my free time.
 - 🔒 &nbsp; Interested in cybersecurity and enjoy solving challenges on Hack The Box.
 - 💻 &nbsp; Enthusiastic about competitive coding.
