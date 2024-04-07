@@ -1,4 +1,8 @@
-<h2> Hey there! I'm Yahya </h2>
+<h2>Hey there! I'm Yahya</h2>
+
+![](https://komarev.com/ghpvc/?username=YahyaMurad&style=for-the-badge&abbreviated=true&color=042b53)
+
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
