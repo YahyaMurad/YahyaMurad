@@ -12,6 +12,7 @@
 - 🔒 &nbsp; Interested in cybersecurity and enjoy solving challenges on Hack The Box.
 - 💻 &nbsp; Enthusiastic about competitive coding.
 
+
 <h3> 🛠 &nbsp;Technologies That I Know</h3>
 
 <p align="">
@@ -39,7 +40,7 @@
 </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Github Analytics
 
 <p align="">
 <a href="https://github.com/YahyaMurad">
@@ -48,6 +49,14 @@
 </a>
 </p>
 
+### 📊 &nbsp;CP Analytics
+
+<p align="">
+<a href="https://github.com/YahyaMurad">
+  <img height="180em" src="https://leetcard.jacoblin.cool/yahyamurad197?theme=nord&font=Fira%20Code"/>
+  <img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=solidhelium"/>
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
