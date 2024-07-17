@@ -45,7 +45,7 @@
 <p align="">
 <a href="https://github.com/YahyaMurad">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YahyaMurad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=YahyaMurad&langs_count=8&theme=algolia&count_private=true&hide=html&hide=cmake&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=YahyaMurad&langs_count=8&theme=algolia&count_private=true&hide=html,makefile,cmake&layout=compact"/>
 </a>
 </p>
 
