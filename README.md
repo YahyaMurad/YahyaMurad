@@ -1,17 +1,7 @@
 <h2>Hey there! I'm Yahya</h2>
+<h3>Applied ML Scientist at JoAcademy</h3>
 
 ![](https://komarev.com/ghpvc/?username=YahyaMurad&style=for-the-badge&abbreviated=true&color=042b53)
-
-
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🎓 &nbsp; Artificial Intelligence student at Universiti Malaya.
-- 💼 &nbsp; Web Developer at "First Specialists".
-- 🏆 &nbsp; Passionate about discovering and building new things.
-- 🔒 &nbsp; Interested in cybersecurity and enjoy solving challenges on Hack The Box.
-- 💻 &nbsp; Enthusiastic about competitive coding.
-
 
 <h3> 🛠 &nbsp;Technologies That I Know</h3>
 
